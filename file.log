@@ -1,0 +1,20 @@
+[2025-06-25 04:09:21,638] init_logging - INFO - init logger | user=91799
+[2025-06-25 04:09:21,638] init_logging - INFO - init logger | user=91799
+[2025-06-25 04:09:21,638] init_logging - INFO - init logger | user=91799
+[2025-06-25 04:09:21,638] init_logging - INFO - init logger | user=91799
+[2025-06-25 04:09:21,638] init_logging - INFO - init logger | user=91799
+[2025-06-25 04:09:21,660] create_myTable - INFO - table=myTable | Success
+[2025-06-25 04:09:21,660] create_myTable - INFO - table=myTable | Success
+[2025-06-25 04:09:21,660] create_myTable - INFO - table=myTable | Success
+[2025-06-25 04:09:21,660] create_myTable - INFO - table=myTable | Success
+[2025-06-25 04:09:21,660] create_myTable - INFO - table=myTable | Success
+[2025-06-25 04:09:21,669] fetch_data_from_db - INFO - Success
+[2025-06-25 04:09:21,669] fetch_data_from_db - INFO - Success
+[2025-06-25 04:09:21,669] fetch_data_from_db - INFO - Success
+[2025-06-25 04:09:21,669] fetch_data_from_db - INFO - Success
+[2025-06-25 04:09:21,669] fetch_data_from_db - INFO - Success
+[2025-06-25 04:09:21,689] main - INFO - End Main
+[2025-06-25 04:09:21,689] main - INFO - End Main
+[2025-06-25 04:09:21,689] main - INFO - End Main
+[2025-06-25 04:09:21,689] main - INFO - End Main
+[2025-06-25 04:09:21,689] main - INFO - End Main
